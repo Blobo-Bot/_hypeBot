@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ssoraa/_hypeBot/issues"
   },
-  "homepage": "https://github.com/ssoraa/_hypeBot#readme"
+  "homepage": "https://github.com/ssoraa/_hypeBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
 }
