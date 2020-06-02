@@ -1,0 +1,23 @@
+{
+  "name": "hypebot",
+  "version": "1.0.0",
+  "description": "A powerful open source discordbot by sora. Enjoy !",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssoraa/_hypeBot.git"
+  },
+  "keywords": [
+    "bot",
+    "djs"
+  ],
+  "author": "Sora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssoraa/_hypeBot/issues"
+  },
+  "homepage": "https://github.com/ssoraa/_hypeBot#readme"
+}
